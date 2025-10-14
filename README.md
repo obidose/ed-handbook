@@ -1,27 +1,48 @@
-# ED Clinician Handbook — MkDocs (Material) Starter
+# Palmy ED Clinician Handbook
 
-## Quick start
+A fast, mobile-friendly reference guide for Emergency Department staff at Palmerston North Hospital.
+
+## About
+
+This handbook provides quick access to:
+- **Clinical guidelines** and protocols
+- **Phone numbers** for on-call situations  
+- **Referral pathways** and specialty contacts
+- **Induction materials** for new staff
+- **Teaching resources** and external links
+
+The site is built with MkDocs Material and deployed to GitHub Pages for easy access on mobile devices during shifts.
+
+## Site Structure
+
+- **Guidelines**: Key ED protocols (sepsis, chest pain, head injury, etc.)
+- **Induction**: Orientation materials for new staff
+- **Referrals**: Specialty contact information and referral processes
+- **Phone Numbers**: Essential contacts organized by department
+- **Quick Links**: Frequently accessed systems and resources
+- **Teaching**: Educational resources and formal teaching schedules
+
+## Development
+
 ```bash
-# 1) (Optional) create venv
-python -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\activate
-
-# 2) install
+# Install dependencies
 pip install mkdocs-material
 
-# 3) run locally
-mkdocs serve  # http://127.0.0.1:8000
+# Run locally
+mkdocs serve
 
-# 4) deploy options
-# GitHub Pages
+# Deploy to GitHub Pages
 mkdocs gh-deploy
-
-# Cloudflare Pages: build command `mkdocs build` and publish `site/`
 ```
-## Customising
-- Edit **mkdocs.yml** to adjust nav and theme.
-- Markdown pages are under **docs/**.
-- Replace SharePoint placeholders with your internal URLs using “Copy link → People in your organisation”.
 
-## Notes
-- Keep internal/sensitive docs in SharePoint; link from this site.
-- Add QR codes to posters in ED that point to key pages.
+## Links
+
+- **Live site**: https://palmed.dromey.co.uk
+- **Repository**: https://github.com/obidose/ed-handbook
+
+## Usage Notes
+
+- Internal documents remain on SharePoint for security
+- This site provides quick links and summaries
+- Optimized for mobile access during clinical work
+- QR codes in the department link to key pages
