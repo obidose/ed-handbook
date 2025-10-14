@@ -1,7 +1,7 @@
 # :material-file-document-multiple: Clinical Guidelines
 
 !!! info "Quick Reference"
-    These are the most commonly used ED guidelines. Use the search function to find additional protocols.
+    These are the most commonly used ED guidelines. More hospital guidelines can be found on the main intranet.
 
 <div class="grid cards" markdown>
 

@@ -59,4 +59,4 @@
     [:simple-spotify: Spotify](https://open.spotify.com/show/56ezbbVLN69sj5GB8GsJ0l){ .md-button }
 
 !!! question "Want to Contribute?"
-    Have interesting cases or teaching ideas? Contact the teaching coordinator or submit cases through the radiology meeting form.
+    Have interesting cases or teaching ideas? Let us know, or submit cases through the radiology meeting form.

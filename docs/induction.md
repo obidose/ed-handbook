@@ -46,5 +46,5 @@
 
 !!! question "Need Help?"
     - Ask your supervising consultant
-    - Contact the nursing team leader
+    - Look for a guideline that may help
     - Refer to the [phone numbers](phone-numbers.md) for on-call support
