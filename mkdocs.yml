@@ -1,0 +1,56 @@
+site_name: Palmy ED Clinician Handbook
+site_description: Palmy in your palm
+site_url: https://palmed.dromey.co.uk
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - navigation.footer
+  palette:
+    - scheme: default
+      primary: blue
+      accent: indigo
+repo_url: https://github.com/obidose/ed-handbook
+edit_uri: ""
+nav:
+  - Home: index.md
+  - Induction: induction.md
+  - Guidelines:
+      - Overview: guidelines/index.md
+      - Sepsis: guidelines/sepsis.md
+      - Head Injury: guidelines/head-injury.md
+      - Chest Pain: guidelines/chest-pain.md
+      - Paeds Fever: guidelines/paeds-fever.md
+  - General:
+      - Referrals: referrals.md
+      - Teaching: teaching.md
+      - Phone Numbers: phone-numbers.md
+      - Quick Links: quick-links.md
+      - Sick Calls: sickness.md
+extra:
+  generator: false
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
