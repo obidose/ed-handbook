@@ -1,33 +1,62 @@
-# Teaching
+# :material-school-outline: Teaching & Learning
 
-There are many great opportunities for teaching in the ED. Much of which will occur ad-hoc on the shop floor.
-- If you have any specific objectives for an individual shift, please talk to your supervising SMO, and potentially the EPIC and let them know
+!!! tip "Learning Opportunities"
+    There are many great opportunities for teaching in the ED, much of which occurs ad-hoc on the shop floor. If you have specific learning objectives for a shift, discuss with your supervising SMO and the EPIC.
 
+## :material-calendar-clock: Formal Teaching Sessions
 
-## Formal teaching opportunities:
+<div class="grid cards" markdown>
 
-??? info "Weekly ED teaching"
-    - Thursdays 0800
-        -Trainees attend for the full morning
-        -Other RMO's can attend for a minimum of two hours, but will generally need to return to the floor after this
-    - [Timetable](https://midcentraldhb.sharepoint.com/:x:/t/AESS-Consultants-EDInitiative/EUyIocGVCTdHmP44PAlJke4BJ7a3J8VcTncV0EhgU5skvQ?web=1)
+-   :material-clock-time-eight:{ .lg .middle } **Weekly ED Teaching**
 
-??? info "Radiology meeting"
-    - Held in Radiology seminar room
-    - Interesting radiology cases discussed
-    - Relies on interesting cases being submitted!
-        - If you have an interesting case, please submit using the [form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=XdgHhCPtd0WRwpLiLa_o5c6XDriSeLZNuVrs1JccAMFUOVNRUVhQWTVLM0U0SU4wT0hKMUMwUUw4RC4u)
+    ---
 
-## Want even more?
+    **Thursdays 0800** - Comprehensive morning sessions
+    
+    - **Trainees**: Attend for full morning
+    - **Other RMOs**: Minimum 2 hours, then return to floor
+    
+    [:octicons-arrow-right-24: View Timetable](https://midcentraldhb.sharepoint.com/:x:/t/AESS-Consultants-EDInitiative/EUyIocGVCTdHmP44PAlJke4BJ7a3J8VcTncV0EhgU5skvQ?web=1){ .md-button .md-button--primary }
 
-??? tip "Good external resources"
-    - [Don't Forget The Bubbles](https://dontforgetthebubbles.com/)
-    - [RCEM Learning](https://rcemlearning.co.uk/)
+-   :material-medical-bag:{ .lg .middle } **Radiology Meeting**
 
-??? tip "Podcasts"
-    - RCEM Podcast
-        -[Apple](https://podcasts.apple.com/gb/podcast/rcem-learning/id898228684)
-        -[Spotify](https://open.spotify.com/show/2zPOcNDklBrV1plsmI8xsB)
-    - St Emlyn's
-        -[Apple](https://podcasts.apple.com/nz/podcast/the-st-emlyns-podcast/id547326956)
-        -[Spotify](https://open.spotify.com/show/56ezbbVLN69sj5GB8GsJ0l)
+    ---
+
+    Interesting radiology cases discussion in Radiology seminar room
+    
+    Submit your interesting cases to contribute!
+    
+    [:octicons-arrow-right-24: Submit Case](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=XdgHhCPtd0WRwpLiLa_o5c6XDriSeLZNuVrs1JccAMFUOVNRUVhQWTVLM0U0SU4wT0hKMUMwUUw4RC4u){ .md-button .md-button--primary }
+
+</div>
+
+## :material-web: External Learning Resources
+
+!!! example "Recommended Websites"
+    
+    **[Don't Forget The Bubbles](https://dontforgetthebubbles.com/)**{ .md-button }
+    
+    Paediatric emergency medicine resource
+    
+    **[RCEM Learning](https://rcemlearning.co.uk/)**{ .md-button }
+    
+    Royal College of Emergency Medicine learning platform
+
+## :material-podcast: Essential Podcasts
+
+=== ":material-hospital: RCEM Podcast"
+
+    Official Royal College of Emergency Medicine podcast
+    
+    [:simple-apple: Apple Podcasts](https://podcasts.apple.com/gb/podcast/rcem-learning/id898228684){ .md-button }
+    [:simple-spotify: Spotify](https://open.spotify.com/show/2zPOcNDklBrV1plsmI8xsB){ .md-button }
+
+=== ":material-hospital-marker: St Emlyn's"
+
+    Emergency medicine education and research podcast
+    
+    [:simple-apple: Apple Podcasts](https://podcasts.apple.com/nz/podcast/the-st-emlyns-podcast/id547326956){ .md-button }
+    [:simple-spotify: Spotify](https://open.spotify.com/show/56ezbbVLN69sj5GB8GsJ0l){ .md-button }
+
+!!! question "Want to Contribute?"
+    Have interesting cases or teaching ideas? Contact the teaching coordinator or submit cases through the radiology meeting form.
