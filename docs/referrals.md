@@ -1,46 +1,65 @@
-# Referrals
+# :material-account-switch: Referrals
 
-Once a decision is made that a patient needs admission to or input from, a specialty team, a referral needs to be made to them. The default aproach is to call the registrar of that team to make the referral.
+!!! tip "Clinical Line Policy"
+    The **[Allocation of Clinical Line Policy](https://midcentraldhb.sharepoint.com/sites/ControlledDocuments/_layouts/15/Doc.aspx?sourcedoc=%7b52BC6D6F-426A-4597-BD30-9BCB85DB1485%7d&file=Acute%20Admissions%20and%20Allocation%20of%20Clinical%20Line%20-Policy-.docx&action=default&mobileredirect=true&DefaultItemOpen=1&web=1)** defines the formal process and expectations of different teams, along with specifying which specialty should accept which patient. When presentations don't fit neatly, refer to the most appropriate specialty based on Emergency Physician discretion.
+    
+    [:octicons-arrow-right-24: View Full Policy](https://midcentraldhb.sharepoint.com/sites/ControlledDocuments/_layouts/15/Doc.aspx?sourcedoc=%7b52BC6D6F-426A-4597-BD30-9BCB85DB1485%7d&file=Acute%20Admissions%20and%20Allocation%20of%20Clinical%20Line%20-Policy-.docx&action=default&mobileredirect=true&DefaultItemOpen=1&web=1){ .md-button .md-button--primary }
 
-The allocation of clinical line policy is an agreed focument that defines much of the formal process and expectations of different teams, along with specifying which specialty should accept which patient. Where a presentation does not neatly fit inside of this document, the most appropriate specialty should be referred to. This is based upon the discretion of the Emergency Physician, but if in doubt you should generally talk to a senior on the floor.
+## :material-clock-outline: General Guidelines
 
-In some cases, outpatient referral may be more appropriate than an acute referral. 
+- **Referral process**: Once a decision is made that a patient needs admission or specialist input, a referral needs to be made to the appropriate team. 
+    - The default approach is to call the registrar of that team.
+- **Outpatient referrals** may be more appropriate than acute referrals in some cases
+- **When in doubt**, always discuss with a senior on the floor
+- Check availability hours before making referrals
 
-Some specifics about our local services:
+## :material-stethoscope: Specialty-Specific Information
 
-### Dental:
-- Only available 0800 - 1700 Mon - Fri
-    - Outside of these hours - Wellington can be contacted for Emergencies
+### :material-tooth-outline: **Dental Services**
+!!! warning "Limited Hours"
+    - **Available**: 0800-1700, Monday-Friday only
+    - **After hours**: Contact Wellington for dental emergencies
 
-### Spine
-- Based in Christchurch 
-    - Can be contacted directly by ED if time critical
-    - Most commonly referred through local orthopaedic team in first instance
+### :material-human-male-board: **Spine Services**
+!!! info "Christchurch-Based"
+    - Based in Christchurch
+    - **Time-critical cases**: Can be contacted directly by ED
+    - **Standard cases**: Refer through local orthopaedic team first
 
-### ENT
-- Available locally, however
-    - Service is very stretched so try to limit out-of-hours referrals
-    - See INSERT DOCUMENT HERE for information on when to refer out of hours
+### :material-ear-hearing: **ENT Services**
+!!! caution "Service Stretched"
+    - Available locally but service is very stretched
+    - **Try to limit out-of-hours referrals**
+    - See referral guidelines for when to refer after hours *(document pending)*
 
-### Cardiology
-- In daytime hours cardiology reg can be contacted directly for relevant referrals
-- Out of hours referrals generally go to med reg
-- Cardiology consultant is available on-call 24/7 and can be contacted for
-    - Suspected Occlusive Myocardial Infarction where emergency PCI may be appropriate
-    - Specialist advice in emergencies
-- The local PCI centre is in Wellington
-    - They tend to advise that cases are discussed with local cardiologist in the first instance
+### :material-heart: **Cardiology**
+!!! example "Referral Pathways"
+    **Daytime hours**: Contact cardiology registrar directly
+    
+    **Out of hours**: Refer to medical registrar
+    
+    **24/7 Consultant available for**:
+    
+    - Suspected STEMI requiring emergency PCI
+    - Specialist advice in cardiac emergencies
+    
+    !!! note "PCI Centre"
+        Local PCI centre is in Wellington - discuss with local cardiologist first
 
-### Cardiothoracics
-- Based in Wellington, discuss with a senior before consulting them
+### :material-heart-pulse: **Cardiothoracics**
+!!! warning "Tertiary Service"
+    - Based in Wellington
+    - **Always discuss with a senior before consulting**
 
-### Vascular
-- Tertiary centre in Wellington
-- However, local surgical team can manage many vascular presentations so should be referred to in first instance
-    - Onward referral to tertiary vascular would generally be via the surgical team locally
+### :material-blood-bag: **Vascular Surgery**
+!!! tip "Local First"
+    - Tertiary centre in Wellington
+    - **Refer to local surgical team first** - they manage many vascular presentations
+    - Onward referral to tertiary vascular usually via local surgical team
 
-### ECMO
-- LOL jk
+### :material-heart-settings: **ECMO**
+!!! failure "lol jk"
+    *More of an EC NO situation...* 😄
 
 
 
