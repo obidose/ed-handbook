@@ -58,6 +58,8 @@ nav:
       - Phone Numbers: phone-numbers.md
       - Quick Links: quick-links.md
       - Sick Calls: sickness.md
+  - Meds:
+      - Magnesium: Meds/magnesium.md
 extra:
   generator: false
   social:
@@ -103,3 +105,5 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.tasklist:
       custom_checkbox: true
+extra_javascript:
+  - javascripts/mg-converter.js
