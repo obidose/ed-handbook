@@ -19,7 +19,7 @@ Welcome to your **fast, mobile-friendly** reference for induction, key guideline
 
     ---
 
-    Essential contact numbers for on-call situations
+    Essential contact numbers
     
     [:octicons-arrow-right-24: View Numbers](phone-numbers.md){ .md-button .md-button--primary }
 
@@ -37,8 +37,20 @@ Welcome to your **fast, mobile-friendly** reference for induction, key guideline
 
     Key ED protocols and clinical decision tools
     
-    [:octicons-arrow-right-24: Browse Guidelines](guidelines/){ .md-button .md-button--primary }
+    [:octicons-arrow-right-24: Browse Guidelines](guidelines/index.md){ .md-button .md-button--primary }
 
 </div>
+
+## :material-monitor: Clinical Systems
+
+--8<-- "snippets/clinical-systems.md"
+
+## :material-book-open-variant: Reference Resources
+
+--8<-- "snippets/reference-resources.md"
+
+## :material-phone-settings: Emergency Contacts
+
+--8<-- "snippets/emergency-contacts.md"
 
 
