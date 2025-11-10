@@ -19,10 +19,15 @@
 
 ## :material-account-group: Referrals & Specialties
 
-| Specialty | Contact | Extension |
+| Specialty | Contact | Number |
 |-----------|---------|-----------|
-| :material-bone: **Orthopaedics Reg** | Othopaedic referrals | **[+64-6-000-0001](tel:+64-6-000-0001)** |
-| :material-sleep: **Medical Reg** | Medical referrals | **[+64-6-000-0002](tel:+64-6-000-0002)** |
+| :material-bone: **Orthopaedics Reg** | Othopaedic referrals | **[+64-027-406-0590](tel:+64-027-406-0590)** |
+| :material-heart-pulse: **Medical Reg** | Medical referrals | **[+64-027-235-5173](tel:+64-027-235-5173)** |
+| :material-knife: **Surgical Reg** | Surgical referrals | **[+64-027-491-3111](tel:+64-027-491-3111)** |
+| :material-ear-hearing: **ENT Reg** | ENT referrals | **[+64-027-273-5385](tel:+64-027-273-5385)** |
+| :material-clipboard-pulse: **ICU Reg** | ICU referrals | **[+64-027-249-8793](tel:+64-027-249-8793)** |
+| :material-water: **Urology Reg** | Urology referrals | **[+64-027-497-0750](tel:+64-027-497-0750)** |
+| :material-baby-carriage: **O&G Reg** | Obstetrics & Gynaecology | **Ext: *934** |
 
 ## :material-medical-bag: Diagnostics
 
@@ -31,15 +36,15 @@
 
 <div class="grid cards" markdown>
 
--   :material-scan-helper:{ .lg .middle } **CT Scanner**
+-   :material-camera:{ .lg .middle } **CT Scanner**
 
     ---
 
     CT scan queries and urgent requests
     
-    **[+64-6-000-0003](tel:+64-6-000-0003)**
+    **Ext: 8719**
 
--   :material-radioactive:{ .lg .middle } **X-Ray Department**
+-   :material-file-image:{ .lg .middle } **X-Ray Department**
 
     ---
 
@@ -47,7 +52,7 @@
     
     **[+64-6-000-0004](tel:+64-6-000-0004)**
 
--   :material-magnet:{ .lg .middle } **MRI**
+-   :material-magnet-on:{ .lg .middle } **MRI**
 
     ---
 
@@ -61,14 +66,13 @@
 
 | Service | Description | Contact |
 |---------|-------------|---------|
-| :material-foot-print: **PEDAL** | Supported discharge | *Brenda - bleep via quickpage* |
+| :material-human-walker: **PEDAL** | Supported discharge | *Brenda - bleep via quickpage* |
 | :material-pill: **Pharmacy** | Medication queries | *Ext 1234* |
 
-## :material-hospital-marker: Inter-Hospital Transfers
+## :material-hospital-marker: Inter-Hospital Calls
 
 !!! tip "Quick Dial Codes"
     Use these codes for rapid connection to other hospitals
 
-- :material-city: **Wellington Hospital** - *Quick dial: *
-- :material-city-variant: **Auckland City Hospital** - *Quick dial: * 
-- :material-river: **Whanganui Hospital** - *Quick dial: *
+- :material-city: **Wellington Hospital** - Quick dial: **\*979**
+- :material-city-variant: **Hutt Hospital** - Quick dial: **\*983**
