@@ -61,6 +61,7 @@ nav:
       - Sick Calls: sickness.md
   - Meds:
       - Magnesium: Meds/magnesium.md
+      - Calcium: Meds/calcium.md
 extra:
   generator: false
   social:
@@ -108,3 +109,4 @@ markdown_extensions:
       custom_checkbox: true
 extra_javascript:
   - javascripts/mg-converter.js
+  - javascripts/ca-converter.js
