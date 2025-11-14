@@ -5,17 +5,11 @@
 
 ## :material-hospital: Departmental
 
-<div class="grid cards" markdown>
-
--   :material-monitor:{ .lg .middle } **EPIC Phone**
-
-    ---
-
-    Emergency Physician in Charge
-    
-    **[+64-6-000-0000](tel:+64-6-000-0000)**
-
-</div>
+| Area | Info | Number |
+|-----------|---------|-----------|
+| :material-monitor: **EPIC Phone** | Emergency Physician In Charge | **Number needed** |
+| :material-monitor: **Sub-Acute** | Sub Acute area | **Ext: 8765** |
+| :material-monitor: **EDOA** | Emergency Department Observation Area | **Ext: 7763** |
 
 ## :material-account-group: Referrals & Specialties
 
@@ -50,7 +44,7 @@
 
     Plain film imaging requests
     
-    **[+64-6-000-0004](tel:+64-6-000-0004)**
+    **Ext: 8710**
 
 -   :material-magnet-on:{ .lg .middle } **MRI**
 
@@ -58,7 +52,7 @@
 
     MRI department. If you need an MR as an emergency, call as soon as possible to discuss.
     
-    **[+64-6-000-0005](tel:+64-6-000-0005)**
+    **Ext: 9150**
 
 </div>
 
@@ -67,7 +61,7 @@
 | Service | Description | Contact |
 |---------|-------------|---------|
 | :material-human-walker: **PEDAL** | Supported discharge | *Brenda - bleep via quickpage* |
-| :material-pill: **Pharmacy** | Medication queries | *Ext 1234* |
+| :material-pill: **Pharmacy** | Medication queries | *Ext 8270* |
 
 ## :material-hospital-marker: Inter-Hospital Calls
 
