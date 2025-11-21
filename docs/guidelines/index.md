@@ -19,7 +19,7 @@
 
     Diabetic Ketoacidosis management protocol and monitoring requirements
 
-    [:octicons-arrow-right-24: Open Guideline](sepsis.md){ .md-button .md-button--primary }
+    [:octicons-arrow-right-24: Open Guideline](https://midcentraldhb.sharepoint.com/sites/ControlledDocuments/_layouts/15/Doc.aspx?sourcedoc=%7B9C868F90-99B3-45F7-A5CF-F9229A885E8A%7D&file=Diabetic%20Ketoacidosis%20(DKA)%20in%20Adult%20Wards%20-Clinical%20Guideline-.doc&action=default&mobileredirect=true&DefaultItemOpen=1){ .md-button .md-button--primary }
 
 -   :material-brain:{ .lg .middle } **TIA / Stroke**
 
