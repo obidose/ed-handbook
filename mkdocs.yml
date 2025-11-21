@@ -110,3 +110,4 @@ markdown_extensions:
 extra_javascript:
   - javascripts/mg-converter.js
   - javascripts/ca-converter.js
+  - javascripts/edacs-calculator.js
