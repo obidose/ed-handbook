@@ -46,13 +46,16 @@ edit_uri: ""
 nav:
   - Home: index.md
   - Induction: induction.md
-  - Guidelines:
-      - Overview: guidelines/index.md
+  - Clinical Resources:
+      - Local Guidelines: guidelines/index.md
+      - Anaphylaxis: guidelines/anaphylaxis.md
       - Sepsis: guidelines/sepsis.md
       - Head Injury: guidelines/head-injury.md
       - Chest Pain: guidelines/chest-pain.md
       - Paeds Fever: guidelines/paeds-fever.md
       - Traumatic Injuries: guidelines/trauma.md
+      - Torus Fractures (FORCE): guidelines/force-torus.md
+      - Headache: guidelines/headache.md
   - General:
       - Referrals: referrals.md
       - Teaching: teaching.md

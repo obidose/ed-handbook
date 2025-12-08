@@ -22,6 +22,6 @@
 
     Staff rosters and shift planning
     
-    [:octicons-arrow-right-24: View Roster](https://midcentraldhb-ed.coreschedule.com/){ .md-button .md-button--primary }
+    [:octicons-arrow-right-24: View Roster](https://midcentraldhb-ed.coreschedule.com/){:target="_blank" .md-button .md-button--primary }
 
 </div>
