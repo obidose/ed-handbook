@@ -1,9 +1,9 @@
 # :material-account-switch: Referrals
 
 !!! tip "Clinical Line Policy"
-    The **[Allocation of Clinical Line Policy](https://midcentraldhb.sharepoint.com/sites/ControlledDocuments/_layouts/15/Doc.aspx?sourcedoc=%7b52BC6D6F-426A-4597-BD30-9BCB85DB1485%7d&file=Acute%20Admissions%20and%20Allocation%20of%20Clinical%20Line%20-Policy-.docx&action=default&mobileredirect=true&DefaultItemOpen=1&web=1)** defines the formal process and expectations of different teams, along with specifying which specialty should accept which patient. When presentations don't fit neatly, refer to the most appropriate specialty based on Emergency Physician discretion.
+    The **[Allocation of Clinical Line Policy](https://midcentraldhb.sharepoint.com/sites/ControlledDocuments/_layouts/15/Doc.aspx?sourcedoc=%7b52BC6D6F-426A-4597-BD30-9BCB85DB1485%7d&file=Acute%20Admissions%20and%20Allocation%20of%20Clinical%20Line%20-Policy-.docx&action=default&mobileredirect=true&DefaultItemOpen=1&web=1){:target="_blank"}** defines the formal process and expectations of different teams, along with specifying which specialty should accept which patient. When presentations don't fit neatly, refer to the most appropriate specialty based on Emergency Physician discretion.
     
-    [:octicons-arrow-right-24: View Full Policy](https://midcentraldhb.sharepoint.com/sites/ControlledDocuments/_layouts/15/Doc.aspx?sourcedoc=%7b52BC6D6F-426A-4597-BD30-9BCB85DB1485%7d&file=Acute%20Admissions%20and%20Allocation%20of%20Clinical%20Line%20-Policy-.docx&action=default&mobileredirect=true&DefaultItemOpen=1&web=1){ .md-button .md-button--primary }
+    [:octicons-arrow-right-24: View Full Policy](https://midcentraldhb.sharepoint.com/sites/ControlledDocuments/_layouts/15/Doc.aspx?sourcedoc=%7b52BC6D6F-426A-4597-BD30-9BCB85DB1485%7d&file=Acute%20Admissions%20and%20Allocation%20of%20Clinical%20Line%20-Policy-.docx&action=default&mobileredirect=true&DefaultItemOpen=1&web=1){:target="_blank" .md-button .md-button--primary }
 
 ## :material-clock-outline: General Guidelines
 

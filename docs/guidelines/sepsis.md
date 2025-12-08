@@ -17,4 +17,3 @@
     - "Sepsis Six" within first hour: oxygen, cultures, antibiotics, fluids, lactate, urine output
     - Source control is critical
     - Reassess frequently
-

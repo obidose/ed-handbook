@@ -1,8 +1,7 @@
 # :material-ambulance: Traumatic Injuries
 
 !!! info "Common Injury Dispositions"
-    Standard management and discharge planning for common traumatic injuries
-    This list is not exhaustive or absolute. If in doubt discuss with senior +/- orthopaedic team.
+    Standard management and discharge planning for common **uncomplicated** traumatic injuries. This list is not exhaustive or absolute. **Individual cases may vary** - clinical judgment is essential. If in doubt, or if there are complicating factors, discuss with senior ± orthopaedic team.
 
 ## :material-bone: Fractures
 
@@ -11,7 +10,7 @@
 | Injury | Management | Disposition |
 |--------|------------|-------------|
 | **Clavicle fracture (paediatric)** | Polysling | Discharge - GP follow up |
-| **Torus fracture** | Wool and crepe for up to 2 weeks | Discharge - GP follow up |
+| **Torus fracture** | Removable splint for comfort (optional) | Discharge - GP follow up<br/>[See FORCE Trial guidance](force-torus.md) |
 | **Colles' fracture** (stable & adequately reduced) | Below elbow cast/backslab | Fracture clinic follow up |
 | **Scaphoid fracture** (confirmed) | Scaphoid cast | Fracture clinic follow up |
 | **Scaphoid fracture** (suspected) | Futura splint | Fracture clinic follow up |
@@ -44,10 +43,3 @@
     - Fracture-dislocations
     - Unstable ankle fractures (Weber B/C with talar shift)
     - Femoral neck fractures
-
-
-## :material-phone: Contacts
-
-- **Ortho Reg**: See [Phone Numbers](../phone-numbers.md)
-- **Fracture Clinic**: Ext needed
-- **Plaster Room**: Ext needed
