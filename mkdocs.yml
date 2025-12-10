@@ -53,8 +53,9 @@ nav:
       - Head Injury: guidelines/head-injury.md
       - Chest Pain: guidelines/chest-pain.md
       - Paeds Fever: guidelines/paeds-fever.md
-      - Major Trauma: guidelines/trauma/index.md
-      - Minor Traumatic Injuries: guidelines/trauma-minor.md
+      - Trauma:
+          - Major Trauma: guidelines/trauma/index.md
+          - Minor Injuries: guidelines/trauma-minor.md
       - Torus Fractures (FORCE): guidelines/force-torus.md
       - Headache: guidelines/headache.md
   - General:
