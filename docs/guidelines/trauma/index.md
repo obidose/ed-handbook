@@ -93,7 +93,7 @@
 ## :material-heart-pulse: Traumatic Cardiac Arrest
 
 ??? info "Algorithm - Click to Expand"
-    <img src="../../assets/prehospital-cardiac-arrest-algorithm.jpg" alt="Traumatic Cardiac Arrest Algorithm" style="width: 100%; max-width: 800px;">
+    <img src="../../assets/traumatic arrest.jpg" alt="Traumatic Cardiac Arrest Algorithm" style="width: 100%; max-width: 800px;">
     
     *Algorithm for traumatic cardiac arrest management and decision-making.*
     
