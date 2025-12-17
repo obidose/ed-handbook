@@ -36,6 +36,12 @@
 | **Ankle sprain** (Grade 1-2) | RICE protocol, tubigrip | Discharge - physio if not improving via GP / ACC|
 | **Achilles tendon rupture** | Equinus cast (thromboprophylaxis!) | Urgent ortho clinic |
 
+## :material-face-man: Facial Injuries
+
+| Injury | Management | Disposition |
+|--------|------------|-------------|
+| **Nasal fracture** | Analgesia, ice | Discharge - patient to self-refer to private ENT for follow-up via ACC in 7-10 days |
+
 
 ## :material-alert-circle: Red Flags Requiring Discussion
 

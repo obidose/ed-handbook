@@ -1,24 +1,21 @@
 # :material-brain: Head Injury
 
-!!! info "Quick Reference"
-    CT head rules and management guidance for head injuries.
+!!! info "Select Patient Population"
+    Choose the appropriate guideline based on patient age.
 
-## :material-account-child: Paediatric Head Injury
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
 
-### PREDICT Algorithm
+<div style="border: 2px solid var(--md-accent-fg-color); border-radius: 8px; padding: 2rem; background: var(--md-code-bg-color); text-align: center;">
+<h2 style="margin-top: 0;">👨 Adult Head Injury</h2>
+<p style="font-size: 1.1rem;">CT indications, brain injury resources, and management guidelines for adult patients.</p>
+<a href="head-injury-adult/" class="md-button md-button--primary" style="margin-top: 1rem;">View Adult Guidelines</a>
+</div>
 
-The PREDICT (Paediatric Research in Emergency Departments International Collaborative) algorithm helps determine which children require CT imaging after head injury.
+<div style="border: 2px solid var(--md-accent-fg-color); border-radius: 8px; padding: 2rem; background: var(--md-code-bg-color); text-align: center;">
+<h2 style="margin-top: 0;">👶 Paediatric Head Injury</h2>
+<p style="font-size: 1.1rem;">PREDICT algorithm, concussion management, and age-specific assessment tools.</p>
+<a href="head-injury-paeds/" class="md-button md-button--primary" style="margin-top: 1rem;">View Paediatric Guidelines</a>
+</div>
 
-<iframe src="https://media.starship.org.nz/predict-algorithm/PREDICTALGORITHM.pdf" width="100%" height="800px" style="border: 1px solid #ccc; border-radius: 4px;">
-    <p>Your browser does not support PDFs. 
-    <a href="https://media.starship.org.nz/predict-algorithm/PREDICTALGORITHM.pdf" target="_blank">Download the PREDICT Algorithm PDF</a></p>
-</iframe>
-
-[Open PDF in new tab :octicons-arrow-right-24:](https://media.starship.org.nz/predict-algorithm/PREDICTALGORITHM.pdf){:target="_blank"}
-
-!!! tip "Key Points"
-    - PREDICT is validated for children aged 0-18 years
-    - Helps reduce unnecessary CT scans
-    - Based on large international cohort study
-    - Use in conjunction with clinical judgment
+</div>
 

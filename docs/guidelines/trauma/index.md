@@ -17,9 +17,18 @@
 ### Tertiary Referral Pathway
 
 !!! tip "Central Region Referral Criteria"
-    **Major Trauma Tertiary Referral Pathway**
-    
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 1rem;">
+    <div>
+    <strong>Major Trauma Tertiary Referral Pathway</strong>
+    <br><br>
     [View PDF](../../assets/Major%20Trauma%20tertiary%20referral%20pathway%20Central%20region.pdf){ .md-button target="_blank"}
+    </div>
+    <div>
+    <strong>Severe TBI Tertiary Referral Pathway</strong>
+    <br><br>
+    [View PDF](../../assets/sTBI%20tertiary%20referral%20pathway%20Central%20Region.pdf){ .md-button target="_blank"}
+    </div>
+    </div>
 
 ---
 
@@ -30,11 +39,14 @@
 <!-- Brain Injury -->
 <div style="border: 2px solid var(--md-accent-fg-color); border-radius: 8px; padding: 1.5rem; background: var(--md-code-bg-color);">
 <h3 style="margin-top: 0;">🧠 Brain Injury</h3>
+<p><strong>TBI Toolkit (Jan 2025 - ACC)</strong></p>
+<a href="../../assets/TBI-toolkit.pdf" target="_blank" class="md-button">View TBI Toolkit</a>
+<hr style="margin: 1rem 0; opacity: 0.3;">
+<p><strong>ACC Concussion Service Referral Form</strong></p>
+<a href="https://www.acc.co.nz/assets/provider/acc883-concussion-service-referral.docx" target="_blank" class="md-button">Download Referral Form</a>
+<hr style="margin: 1rem 0; opacity: 0.3;">
 <p><strong>Brain Injury Screening Tool (BIST)</strong></p>
 <a href="https://www.aut.ac.nz/tbi_network/support-and-resources/brain-injury-screening-tool-bist" target="_blank" class="md-button">Access BIST Tool</a>
-<hr style="margin: 1rem 0; opacity: 0.3;">
-<p style="font-size: 0.9rem;"><strong>Severe TBI Tertiary Referral Pathway</strong></p>
-<a href="../../assets/sTBI%20tertiary%20referral%20pathway%20Central%20Region.pdf" target="_blank" class="md-button">View PDF</a>
 </div>
 
 <!-- Spinal Injuries -->
@@ -79,10 +91,10 @@
 <p style="font-size: 0.85rem;">Comprehensive chest injury guideline currently under development.</p>
 </div>
 
-<!-- Massive Haemorrhage -->
+<!-- Adult Massive Haemorrhage and Code Crimson Protocol -->
 <div style="border: 2px solid var(--md-accent-fg-color); border-radius: 8px; padding: 1.5rem; background: var(--md-code-bg-color);">
-<h3 style="margin-top: 0;">💉 Massive Haemorrhage</h3>
-<p><strong>Code Crimson Protocol</strong></p>
+<h3 style="margin-top: 0;">💉 Adult Massive Haemorrhage and Code Crimson Protocol</h3>
+<p><strong>Adult Massive Haemorrhage Pathway (MHP) and Code Crimson Protocol</strong></p>
 <a href="https://midcentraldhb.sharepoint.com/sites/ControlledDocuments/_layouts/15/Doc.aspx?sourcedoc=%7BFF07689F-9988-4AA7-A915-867A4BE6D07B%7D&file=Adult%20Massive%20Haemorrhage%20Pathway%20(MHP)%20and%20Code%20Crimson%20Protocol%20-Clinical%20Guideline-.docx" target="_blank" class="md-button">Access Guideline</a>
 </div>
 

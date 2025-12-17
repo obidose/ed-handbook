@@ -47,17 +47,30 @@ nav:
   - Home: index.md
   - Induction: induction.md
   - Clinical Resources:
-      - Local Guidelines: guidelines/index.md
-      - Anaphylaxis: guidelines/anaphylaxis.md
-      - Sepsis: guidelines/sepsis.md
-      - Head Injury: guidelines/head-injury.md
-      - Chest Pain: guidelines/chest-pain.md
-      - Paeds Fever: guidelines/paeds-fever.md
-      - Trauma:
-          - Major Trauma: guidelines/trauma/index.md
-          - Minor Injuries: guidelines/trauma-minor.md
-      - Torus Fractures (FORCE): guidelines/force-torus.md
-      - Headache: guidelines/headache.md
+      - Local Guidelines:
+          - Overview: guidelines/index.md
+      - Systemic:
+          - Anaphylaxis: guidelines/anaphylaxis.md
+          - Sepsis: guidelines/sepsis.md
+      - Cardiology:
+          - Chest Pain: guidelines/chest-pain.md
+          - STEMI: guidelines/stemi.md
+          - Pulmonary Embolism: guidelines/pulmonary-embolism.md
+      - Neurology:
+          - Headache: guidelines/headache.md
+      - Major Trauma:
+          - Overview: guidelines/trauma/index.md
+      - Minor Injuries:
+          - Minor Traumatic Injuries: guidelines/trauma-minor.md
+          - Torus Fractures (FORCE): guidelines/force-torus.md
+      - Head Injury:
+          - Overview: guidelines/head-injury.md
+          - Adult: guidelines/head-injury-adult.md
+          - Paediatric: guidelines/head-injury-paeds.md
+      - Paediatric:
+          - Fever: guidelines/paeds-fever.md
+      - Palliative Care:
+          - Overview: guidelines/palliative-care.md
   - General:
       - Referrals: referrals.md
       - Teaching: teaching.md
@@ -115,3 +128,4 @@ markdown_extensions:
 extra_javascript:
   - javascripts/mg-converter.js
   - javascripts/ca-converter.js
+  - javascripts/edacs-calculator.js
