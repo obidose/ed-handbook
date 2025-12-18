@@ -45,7 +45,35 @@ repo_url: https://github.com/obidose/ed-handbook
 edit_uri: ""
 nav:
   - Home: index.md
-  - Induction: induction.md
+  - Induction:
+      - Overview: induction.md
+      - Department Information: department-info.md
+      - ED Layout: ed-overview.md
+      - Case Workflow:
+          - Picking Up Patients: picking-up-patients.md
+          - Initial Patient Review: initial-review.md
+          - Presenting Patients: presenting-patients.md
+          - Working Up Patients: working-up-patients.md
+          - Referring Patients: referring-patients.md
+          - Discharging Patients: discharging-patients.md
+      - Other:
+          - Documentation: documentation.md
+          - Shift Handover: handover.md
+          - Top Ten Tips: top-ten-tips.md
+          - National RMO Handbook: rmo-handbook.md
+      - Digital Tools:
+          - MedChart: medchart.md
+      - Common Presentations:
+          - Chest Pain: presentations/chest-pain.md
+          - Back Pain: presentations/back-pain.md
+          - Headache: presentations/headache.md
+          - Syncope: presentations/syncope.md
+          - Shortness of Breath: presentations/shortness-of-breath.md
+          - Pain Management: presentations/pain.md
+          - Early Pregnancy Problems: presentations/early-pregnancy.md
+          - Upper GI Bleeding: presentations/upper-gi-bleed.md
+          - Toxicology: presentations/toxicology.md
+          - Sepsis: presentations/sepsis.md
   - Clinical Resources:
       - Local Guidelines: guidelines/index.md
       - Anaphylaxis: guidelines/anaphylaxis.md

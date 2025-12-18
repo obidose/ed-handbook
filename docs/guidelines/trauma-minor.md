@@ -1,10 +1,7 @@
-# :material-ambulance: Minor Traumatic Injuries
+# :material-ambulance: Traumatic Injuries
 
 !!! info "Common Injury Dispositions"
     Standard management and discharge planning for common **uncomplicated** traumatic injuries. This list is not exhaustive or absolute. **Individual cases may vary** - clinical judgment is essential. If in doubt, or if there are complicating factors, discuss with senior ± orthopaedic team.
-
-!!! note "Major Trauma"
-    For major trauma protocols, see [Major Trauma Overview](trauma/index.md).
 
 ## :material-bone: Fractures
 

@@ -1,7 +1,12 @@
 # :material-phone: Phone Numbers
 
-!!! warning "Emergency Contacts"
-    Keep this page bookmarked for quick access during shifts. All numbers are internal extensions unless specified.
+## :material-phone-in-talk: Quick Contacts
+
+| Service | Contact | Number |
+|---------|---------|--------|
+| :material-security: **Security** | Hospital security | **[+64 27 700 4054](tel:+6427700454)** or **Ext: 8797** |
+| :material-phone: **Hospital Operator** | Main switchboard | **[+64 6 356 9169](tel:+6463569169)** or **Ext: 0** |
+| :material-laptop: **IT Helpdesk** | Technical support | **[+64 6 350 8000](tel:+6463508000)** or **Ext: 8000** |
 
 ## :material-hospital: Departmental
 
@@ -15,46 +20,21 @@
 
 | Specialty | Contact | Number |
 |-----------|---------|-----------|
-| :material-bone: **Orthopaedics Reg** | Othopaedic referrals | **[+64-027-406-0590](tel:+64-027-406-0590)** |
-| :material-heart-pulse: **Medical Reg** | Medical referrals | **[+64-027-235-5173](tel:+64-027-235-5173)** |
-| :material-knife: **Surgical Reg** | Surgical referrals | **[+64-027-491-3111](tel:+64-027-491-3111)** |
-| :material-ear-hearing: **ENT Reg** | ENT referrals | **[+64-027-273-5385](tel:+64-027-273-5385)** |
-| :material-clipboard-pulse: **ICU Reg** | ICU referrals | **[+64-027-249-8793](tel:+64-027-249-8793)** |
-| :material-water: **Urology Reg** | Urology referrals | **[+64-027-497-0750](tel:+64-027-497-0750)** |
+| :material-bone: **Orthopaedics Reg** | Othopaedic referrals | **[+64 27 406 0590](tel:+6427406590)** |
+| :material-heart-pulse: **Medical Reg** | Medical referrals | **[+64 27 235 5173](tel:+6427235173)** |
+| :material-knife: **Surgical Reg** | Surgical referrals | **[+64 27 491 3111](tel:+6427491311)** |
+| :material-ear-hearing: **ENT Reg** | ENT referrals | **[+64 27 273 5385](tel:+6427273385)** |
+| :material-clipboard-pulse: **ICU Reg** | ICU referrals | **[+64 27 249 8793](tel:+6427249793)** |
+| :material-water: **Urology Reg** | Urology referrals | **[+64 27 497 0750](tel:+6427497750)** |
 | :material-baby-carriage: **O&G Reg** | Obstetrics & Gynaecology | **Ext: *934** |
 
 ## :material-medical-bag: Diagnostics
 
-!!! info "Imaging Services"
-    Contact these numbers for urgent imaging requests and queries
-
-<div class="grid cards" markdown>
-
--   :material-camera:{ .lg .middle } **CT Scanner**
-
-    ---
-
-    CT scan queries and urgent requests
-    
-    **Ext: 8719**
-
--   :material-file-image:{ .lg .middle } **X-Ray Department**
-
-    ---
-
-    Plain film imaging requests
-    
-    **Ext: 8710**
-
--   :material-magnet-on:{ .lg .middle } **MRI**
-
-    ---
-
-    MRI department. If you need an MR as an emergency, call as soon as possible to discuss.
-    
-    **Ext: 9150**
-
-</div>
+| Service | Contact | Number |
+|---------|---------|--------|
+| :material-camera: **CT Scanner** | CT scan queries and urgent requests | **Ext: 8719** |
+| :material-file-image: **X-Ray Department** | Plain film imaging requests | **Ext: 8710** |
+| :material-magnet-on: **MRI** | MRI department - call ASAP for emergency MR | **Ext: 9150** |
 
 ## :material-account-heart: Allied Health
 
