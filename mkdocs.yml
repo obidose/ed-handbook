@@ -58,6 +58,8 @@ nav:
           - Pulmonary Embolism: guidelines/pulmonary-embolism.md
       - Neurology:
           - Headache: guidelines/headache.md
+      - ENT:
+          - Overview: guidelines/ent.md
       - Major Trauma:
           - Overview: guidelines/trauma/index.md
       - Minor Injuries:

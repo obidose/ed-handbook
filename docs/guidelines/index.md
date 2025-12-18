@@ -37,6 +37,14 @@
 
     [:octicons-arrow-right-24: Open Guideline](https://midcentraldhb.sharepoint.com/sites/ControlledDocuments/_layouts/15/Doc.aspx?sourcedoc=%7b3BE68031-6251-49FB-95EF-DCEC1D7E1809%7d&file=Fractures%20-%20Fast-Track%20Admission%20of%20Patients%20With%20Fractures%20of%20the%20Femoral%20Neck%20-Guideline-.docx&action=default&mobileredirect=true&DefaultItemOpen=1&web=1){:target="_blank" .md-button .md-button--primary }
 
+-   :material-human-male:{ .lg .middle } **Urology Pathways for ED**
+
+    ---
+
+    Emergency Department pathways for common urological presentations
+
+    [:octicons-arrow-right-24: Open Guideline](https://midcentraldhb.sharepoint.com/:w:/r/sites/ControlledDocuments/_layouts/15/Doc.aspx?sourcedoc=%7B692073D2-4A54-4214-BFB7-00994464FAF4%7D&file=Urology%20Pathways%20for%20ED%20-Clinical%20Guideline-.doc&action=default&mobileredirect=true&DefaultItemOpen=1){:target="_blank" .md-button .md-button--primary }
+
 </div>
 
 ## Additional Resources

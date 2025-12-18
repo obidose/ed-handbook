@@ -37,15 +37,15 @@
 
 !!! example "Who to Call"
     
-    === "Day Shifts"
+    === "In Hours (Business Hours)"
         
-        **EPIC** and **MAU**
+        **EPIC** and **MAU** (Medical Administration Unit)
         
         - Phone: *See [phone numbers](phone-numbers.md)*
     
-    === "Night/Weekend Shifts"
+    === "Out of Hours (After Hours/Weekends)"
         
-        **EPIC** then contact MAU on the next working day
+        **EPIC** then contact MAU (Medical Administration Unit) on the next working day
         
         - Available 24/7
         - Phone: *See [phone numbers](phone-numbers.md)*

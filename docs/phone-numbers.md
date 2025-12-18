@@ -42,7 +42,7 @@
 
     ---
 
-    Plain film imaging requests
+    Plain film imaging queries and coordination
     
     **Ext: 8710**
 
