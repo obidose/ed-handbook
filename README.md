@@ -37,7 +37,7 @@ mkdocs gh-deploy
 
 ## Links
 
-- **Live site**: https://palmed.dromey.co.uk
+- **Live site**: https://palmyed.com
 - **Repository**: https://github.com/obidose/ed-handbook
 
 ## Usage Notes
