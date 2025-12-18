@@ -1,50 +1,93 @@
-# :material-school: Staff Induction
+# :material-home: Welcome to Palmerston North ED
 
-!!! info "Welcome to Palmy ED"
-    Everything you need to get started in the Emergency Department. Review these materials during your first week.
+Welcome to Palmerston North Hospital Emergency Department! This handbook has been created to help you get started and thrive during your time with us.
 
-## :material-presentation-play: Essential Training Materials
+---
 
-<div class="grid cards" markdown>
+## :material-map: Getting Oriented
 
--   :material-alert-circle:{ .lg .middle } **Undifferentiated Acutely Unwell**
+This section is organized to take you through everything you need to know:
 
-    ---
+### :material-information: Department Basics
 
-    Core approach to managing complex emergency presentations
+Start with the essentials:
 
-    [:octicons-arrow-right-24: View Presentation](https://midcentraldhb.sharepoint.com/:p:/r/teams/RMOEmergency/Shared%20Documents/Orientation/Approach_to_Undifferentiated_Acutely_Unwell_Patients%5B2%5D.pptx?d=w3a7bdf8e3c9b47b585b53f7c8b93044e&csf=1&web=1&e=ye88az){:target="_blank" .md-button .md-button--primary }
+- **[Department Information](department-info.md)** - Learn about our team, services, and how the department operates
+- **[ED Layout](ed-overview.md)** - Navigate the physical space and understand the different areas
 
--   :material-hand-wave:{ .lg .middle } **ED Handover Process**
+### :material-account-multiple: Case Workflow
 
-    ---
-
-    Learn the structured handover process used in our department
-
-    [:octicons-arrow-right-24: View Presentation](https://midcentraldhb.sharepoint.com/:p:/r/teams/RMOEmergency/Shared%20Documents/Orientation/Handover_in_the_ED%5B1%5D.pptx?d=wb1a1452879fd4c98ac9abf605cb9f9a2&csf=1&web=1&e=Xpt4Jd){:target="_blank" .md-button .md-button--primary }
-
-</div>
-
-## :material-video-outline: Clinical Presentations
+Follow the complete patient journey from start to finish:
 
 <div class="grid cards" markdown>
 
--   :material-stomach:{ .lg .middle } **Abdominal Pain**
+-   :material-clipboard-check:{ .lg .middle } __[Picking Up Patients](picking-up-patients.md)__
 
     ---
 
-    Video recording covering acute abdominal pain assessment and management
+    How to select and claim patients from the waiting room or ambulance bay
 
-    [:octicons-arrow-right-24: Watch Recording](https://midcentraldhb.sharepoint.com/:v:/r/teams/RMOEmergency/Shared%20Documents/Orientation/Recordings/Acute%20Abdominal%20Pain-20250716_014700-Meeting%20Recording.mp4?csf=1&web=1&e=7M2Kgc){:target="_blank" .md-button .md-button--primary }
+-   :material-stethoscope:{ .lg .middle } __[Initial Patient Review](initial-review.md)__
+
+    ---
+
+    Taking history, examining, investigating, and formulating your initial plan
+
+-   :material-account-voice:{ .lg .middle } __[Presenting Patients](presenting-patients.md)__
+
+    ---
+
+    How to present to seniors concisely and effectively
+
+-   :material-chart-line:{ .lg .middle } __[Working Up Patients](working-up-patients.md)__
+
+    ---
+
+    Ongoing management, reassessment, and acting on results
+
+-   :material-phone-forward:{ .lg .middle } __[Referring Patients](referring-patients.md)__
+
+    ---
+
+    When and how to refer, using ISBAR, managing disputed referrals
+
+-   :material-exit-run:{ .lg .middle } __[Discharging Patients](discharging-patients.md)__
+
+    ---
+
+    Safe discharge planning, safety netting, and discharge documentation
 
 </div>
 
-## :material-lightbulb-outline: Additional Resources
+### :material-folder-text: Other Essential Information
 
-!!! tip "Practical Tips"
-    **[Practical Tips for Thriving in the ED](https://midcentraldhb.sharepoint.com/:b:/r/teams/RMOEmergency/Shared%20Documents/Orientation/Practical%20Tips%20for%20Thriving%20in%20the%20ED.pdf?csf=1&web=1&e=TWxlkH){:target="_blank"}** - Essential reading for new staff members
+Important supporting resources:
 
-!!! question "Need Help?"
+- **[Documentation](documentation.md)** - Clinical documentation standards and best practices
+- **[Shift Handover](handover.md)** - Structured handover process (0700, 1600, 2330)
+- **[Top Ten Tips](top-ten-tips.md)** - Essential wisdom for ED work
+
+---
+
+## :material-video: Clinical Presentations
+
+<div class="grid cards" markdown>
+
+-   :material-stomach:{ .lg .middle } __Acute Abdominal Pain__
+
+    ---
+
+    Comprehensive overview of managing acute abdominal pain presentations
+    
+    [:octicons-play-24: Watch Video on SharePoint](https://midcentraldhb.sharepoint.com/:v:/r/teams/RMOEmergency/Shared%20Documents/Orientation/ACUTE%20ABDOMINAL%20PAIN.mp4?csf=1&web=1&e=fHIXPt){:target=\"_blank\" .md-button}
+
+</div>
+
+---
+
+## :material-help-circle: Need Help?
+
+!!! question "Getting Support"
     - Ask your supervising consultant
-    - Look for a guideline that may help
+    - Check the relevant clinical guideline
     - Refer to the [phone numbers](phone-numbers.md) for on-call support
