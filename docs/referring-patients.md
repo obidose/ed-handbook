@@ -21,8 +21,7 @@
     ---
 
     - Critical investigations that affect **immediate care**
-    - Basic workup (bloods, imaging if urgent)
-    - Any tests needed for **safe transfer**
+    - Basic workup which will affect disposition (bloods, imaging if urgent)
 
 -   :material-close-circle:{ .lg .middle } __Not Required__
 
@@ -48,8 +47,8 @@
 !!! example "Referral Process"
     1. **Identify the appropriate specialty**
     2. **Contact the receiving clinician** for that specialty
-    3. **Present the patient** clearly and concisely
-    4. **State your request** - "I am referring this patient for admission"
+    3. **State your request** - "I am referring this patient for admission"
+    4. **Present the patient** clearly and concisely
 
 ### Key Information to Include
 
@@ -164,7 +163,6 @@
     - Discussion with specialty team
     - Their acceptance and plan
     - Any interim management required
-    - Handover details
 
 ---
 
@@ -212,7 +210,7 @@
 
     ---
 
-    - [:octicons-link-external-24: St Emlyn's: Making a Referral Lesson Plan](https://www.stemlynsblog.org/lesson-plan-making-a-referral/){:target="_blank"}
+    - [:octicons-link-external-24: St Emlyn's: Making a Referral with Iain Beardsell](https://www.stemlynsblog.org/making-a-referral-with-iain-beardsell-st-emlyns/){:target="_blank"}
     - [:octicons-link-external-24: RCEM Learning: Making a Good Referral](https://www.rcemlearning.co.uk/modules/making-a-good-referral-induction/){:target="_blank"}
     - [:octicons-link-external-24: LITFL: Referring Patients from the ED](https://litfl.com/referring-patients-from-the-emergency-department/){:target="_blank"}
     - [:octicons-link-external-24: LITFL: Comms Lab - Referral Pushback](https://litfl.com/comms-lab-referral-pushback/){:target="_blank"}

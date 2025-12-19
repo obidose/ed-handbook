@@ -11,7 +11,6 @@
     - The default approach is to call the registrar of that team.
 - **Outpatient referrals** may be more appropriate than acute referrals in some cases
 - **When in doubt**, always discuss with a senior on the floor
-- Check availability hours before making referrals
 
 ## :material-stethoscope: Specialty-Specific Information
 
@@ -31,6 +30,20 @@
     - Available locally but service is very stretched
     - **Try to limit out-of-hours referrals**
     - See referral guidelines for when to refer after hours *(document pending)*
+
+### :material-stomach: **Gastroenterology**
+!!! warning "Service Stretched"
+    - Local service is very stretched
+    - Struggling to provide comprehensive on-call service
+    - **Someone will always be on-call for emergency upper GI bleed**
+    - **Most other cases** will generally be managed by the general medical team in first instance
+    - **Usually consult general medicine first unless critical**
+
+### :material-hospital-box: **Oncology**
+!!! info "Comprehensive Local Service"
+    - **Fairly comprehensive oncology service** in Palmerston North Hospital
+    - **During daytime**: Separate haematology and oncology registrars who will manage respective patients
+    - **Out of hours**: Registrars cross cover each other
 
 ### :material-heart: **Cardiology**
 !!! example "Referral Pathways"
@@ -56,6 +69,43 @@
     - Tertiary centre in Wellington
     - **Refer to local surgical team first** - they manage many vascular presentations
     - Onward referral to tertiary vascular usually via local surgical team
+
+### :material-hand-back-right: **Plastic Surgery**
+!!! info "Complex Hand Injuries"
+    - Based at Hutt Hospital
+    - **Complex hand injuries** requiring specialist input
+    - **May be worth discussing with local orthopaedics first** to determine if specialist plastics input needed
+
+### :material-baby-carriage: **Paediatric Surgery**
+!!! info "Starship Hospital"
+    - Based at Starship Hospital
+    - **Generally discuss with local paediatric +/- surgical teams in first instance**
+
+### :material-eye: **Ophthalmology**
+!!! info "Eye Clinic and On-Call"
+    - **Eye clinic** can be contacted during the day
+    - **Out of hours**: Cross cover between Palmerston North and Whanganui - check rota to see which site is on call
+    - **Ophthalmology registrar** can be contacted by switchboard if needed
+
+### :material-water-circle: **Renal / Dialysis**
+!!! info "24/7 SMO On-Call"
+    - **SMO on-call 24/7**
+    - **Dialysis unit** runs during daytime hours
+    - **Registrar** covering these patients
+    
+    !!! warning "Important"
+        **Dialysis patients should not be sent to the ED without prior discussion and referral to specialty** (see Clinical Line Policy)
+
+### :material-hospital-building: **ICU**
+!!! warning "Limited Capacity"
+    - **5 bed ICU** for both surgical HDU (level 2) and ICU (level 3) patients
+    - **Capacity is significantly limited**
+    - **ICU registrar on call 24/7**
+    - Will generally discuss cases with ICU SMO before admission
+    
+    !!! note "Medical HDU Patients"
+        - **Medical HDU patients** will generally be managed in CCU
+        - Scope for ICU admission where no space in CCU - requires medical SMO to ICU SMO discussion
 
 ### :material-heart-settings: **ECMO**
 !!! failure "lol jk"
