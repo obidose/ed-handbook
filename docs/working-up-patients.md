@@ -22,7 +22,7 @@
     - Check medication history
     - Ensure time-critical medications are given (e.g., anticoagulants, anticonvulsants, insulin)
     - Don't assume nursing staff know about regular medications
-    - Prescribe them clearly on the drug chart
+    - Prescribe them clearly in MedChart
 
 ---
 
@@ -77,7 +77,7 @@
 
 ---
 
-## :material-communication: Communication
+## :material-message-alert: Communication
 
 ### Keep the Team Informed
 
@@ -127,20 +127,6 @@
     
     - ED is for acute assessment and stabilization, not prolonged workup
     - Consider if patient needs admission for ongoing management
-
-### Think in Timeframes
-
-!!! example "Time-Limited Approach"
-    
-    ❌ **Instead of:** "Waiting for results to come back"
-    
-    ✅ **Think:** "Will review in 1 hour when bloods back, then decide on admission vs discharge"
-    
-    ---
-    
-    ❌ **Instead of:** "Waiting for antibiotics to work"
-    
-    ✅ **Think:** "Give first dose of antibiotics, if improving in 2 hours can discharge with oral, if not refer for admission"
 
 ### When to Escalate
 

@@ -16,16 +16,15 @@ Palmerston North Hospital Emergency Department is a **24/7 emergency service** p
     ---
 
     - Mixed adult and paediatric emergency department
-    - Level 2 trauma centre
-    - Regional tertiary referral centre
     - 24-hour acute surgical service
+    - Regional cancer services centre
 
 -   :material-chart-line:{ .lg .middle } __Department Capacity__
 
     ---
 
-    - Approximately **45,000 presentations** per year
-    - Average **120-130 patients** per day
+    - Approximately **48,000-50,000 presentations** per year
+    - Average **135 patients** per 24 hours
     - Resuscitation, acute, sub-acute, and observation areas
     - Fast-track service for minor injuries
 
@@ -43,16 +42,19 @@ Palmerston North Hospital Emergency Department is a **24/7 emergency service** p
 
     ---
 
-    - **Emergency Physicians** (FACEMs and specialists)
-    - 24/7 consultant coverage
+    - **FACEMs** and overseas specialists (ABEM, FRCEM, FCEMSA, FRCPC)
+    - 24/7 consultant on-call coverage
+    - Consultant on shop floor 0700-0000
     - Senior supervision and teaching
 
 -   :material-account-school:{ .lg .middle } __Registrars & RMOs__
 
     ---
 
-    - Emergency Medicine trainees (ACEM registrars)
-    - House Officers and Resident Medical Officers
+    - **ACEM registrars** (Emergency Medicine trainees)
+    - **Non-training registrars**
+    - **Senior House Officers**
+    - **Trainee Interns** (6th year medical students, University of Otago)
     - Supervised training environment
 
 </div>
@@ -60,7 +62,7 @@ Palmerston North Hospital Emergency Department is a **24/7 emergency service** p
 ### Nursing & Allied Health
 
 !!! example "Nursing Team"
-    - **Charge Nurse** - Shift leadership and coordination
+    - **Associate Charge Nurse or Shift Coordinator** - Nursing leadership during every clinical shift
     - **Triage Nurse** - Initial assessment and prioritization
     - **Clinical Nurses** - Direct patient care across all zones
     - **Nurse Practitioners** - Advanced practice and minor injuries
@@ -73,15 +75,7 @@ Palmerston North Hospital Emergency Department is a **24/7 emergency service** p
 
 ---
 
-## :material-clock-outline: Operating Hours & Access
-
-### Patient Access
-
-- **Emergency Department** - 24 hours, 7 days a week
-- **Walk-in patients** - All presentations welcome
-- **Ambulance arrivals** - Direct access to resuscitation area
-
-### Triage System
+## :material-clock-outline: Triage System
 
 !!! info "Triage Categories"
     The department uses the **Australasian Triage Scale (ATS)**:
@@ -114,18 +108,23 @@ Palmerston North Hospital Emergency Department is a **24/7 emergency service** p
     ---
 
     - Point-of-care ultrasound
+    - Slit lamp examination
     - Plain X-ray (24/7)
-    - CT scanning (24/7)
+    - CT scanning (24/7, may be offsite overnight and need calling in)
     - Laboratory services
 
 -   :material-needle:{ .lg .middle } __Procedures__
 
     ---
 
-    - Minor surgical procedures
+    Wide range of ED procedures including:
+    
     - Wound management and suturing
     - Fracture reduction and splinting
-    - Joint aspiration and injection
+    - Joint aspiration
+    - Chest drains
+    - Nerve blocks
+    - Foreign body removal
 
 -   :material-bed-empty:{ .lg .middle } __Observation Unit__
 
@@ -140,34 +139,32 @@ Palmerston North Hospital Emergency Department is a **24/7 emergency service** p
 
 ---
 
-## :material-link-variant: Key Relationships
-
-### Hospital Specialties
-
-The ED works closely with all hospital specialties for consultation and admission:
-
-- **General Medicine** and subspecialties
-- **General Surgery** and subspecialties  
-- **Orthopaedics**
-- **Paediatrics**
-- **Obstetrics & Gynaecology**
-- **Mental Health Services**
-
-### External Services
-
-- **St John Ambulance** - Pre-hospital care partner
-- **Rescue Helicopter** - Retrieval service
-- **Primary Care** - GP practices and urgent care clinics
-- **Wellington Hospital** - Tertiary referral centre
-
----
-
 ## :material-school: Teaching & Training
 
 !!! success "Academic Department"
     Palmerston North ED is a **teaching department** providing comprehensive education and training programs.
     
     [:material-arrow-right: View Teaching Resources and Information](teaching.md){.md-button}
+
+---
+
+## :material-shield-check: Professional Standards
+
+<div class="grid cards" markdown>
+
+-   **ACEM - Our College**
+
+    ---
+    
+    ![ACEM Logo](/assets/ACEMLOGO.svg){ align=left width="120" }
+    
+    The **Australasian College for Emergency Medicine (ACEM)** is our professional college and a key governing body for emergency medicine practice.
+    
+    Sets clinical standards and guidelines, oversees specialist training and qualification (FACEM), develops policies and advocates for emergency care, and supports continuing professional development.
+    
+    [:octicons-link-external-24: ACEM Standards Library](https://acem.org.au/Search-Pages/Standards-and-Advocacy-Library){:target="_blank" .md-button}
+
+</div>
 
 ---
 
@@ -179,7 +176,7 @@ The ED works closely with all hospital specialties for consultation and admissio
 
     ---
 
-    Detailed information about the department structure, processes, and services
+    Detailed information about the department structure, processes, and services. This presentation is a little out of date but still useful.
     
     [:octicons-download-24: Download Department Overview](/assets/Palmerston_North_Hospital_Emergency_Department_2%5B1%5D.pdf){:target="_blank" .md-button}
 

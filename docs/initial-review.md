@@ -13,8 +13,8 @@
     - **Presenting complaint** - What brought them in?
     - **History of presenting complaint** - Details and timeline
     - **Past medical history** - Relevant conditions
-    - **Medications** - Current medications and allergies
-    - **Social history** - Living situation, support, functional status
+    - **Medications** - Current medications and allergies. Important medications vary by presentation, but always ask specifically about anticoagulants as they can significantly alter management
+    - **Social history** - Smoking, alcohol, drugs. Living situation, support, functional status
     - **Systems review** - Relevant systems
 
 !!! tip "Don't Skip the Basics"
@@ -51,9 +51,13 @@
 
     ---
 
-    - FBC, U&E, LFT - as appropriate
+    - FBC, U&E, LFT, Coag - as appropriate
     - Troponin - chest pain
+    - D-dimer - PE/DVT
+    - Lipase - abdominal pain
+    - TFT - various presentations
     - Lactate - sepsis
+    - Blood gases - respiratory/metabolic concerns
     - Blood cultures - if febrile
 
 -   :material-radioactive:{ .lg .middle } __Imaging__
@@ -61,8 +65,22 @@
     ---
 
     - X-rays - fractures, chest pain, SOB
-    - CT - head injury, PE, abdominal pain
-    - Ultrasound - pregnancy, AAA, FAST
+    - CT - head injury, PE, abdominal pain (generally discuss with senior first)
+    - Formal ultrasound - often hard to get but may be useful in working hours
+    - MRI - infrequently an ED scan (exception: ?cauda equina)
+
+-   :material-sine-wave:{ .lg .middle } __Point of Care Ultrasound__
+
+    ---
+
+    Talk to seniors about POCUS:
+    
+    - FAST scan
+    - AAA assessment
+    - Echo
+    - Lung ultrasound
+    - Vascular access
+    - Limited MSK
 
 -   :material-heart-pulse:{ .lg .middle } __Bedside Tests__
 

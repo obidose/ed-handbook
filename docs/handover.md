@@ -1,7 +1,7 @@
 # :material-hand-wave: Shift Handover
 
 !!! info "Department Handover Process"
-    Structured handovers ensure continuity of care and maintain situational awareness across the department. The incoming EPIC leads the handover process.
+    Structured handovers ensure continuity of care and maintain situational awareness across the department. The incoming EPIC (Emergency Physician In Charge) leads the handover process.
 
 ---
 
