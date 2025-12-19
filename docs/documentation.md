@@ -186,13 +186,12 @@ For resuscitation cases, you may use an **A-E (ABCDE) structure** instead:
     
     **Be Clear**
     
-    - Use standard medical abbreviations
+    - Avoid abbreviations in general as they can cause confusion
     - Avoid ambiguous terms
     - Make your plan explicit
     
     **Be Professional**
     
-    - Legible writing (if handwritten)
     - Appropriate terminology
     - No criticism of colleagues or patients
 
@@ -209,7 +208,7 @@ For resuscitation cases, you may use an **A-E (ABCDE) structure** instead:
     - Shows **appropriate senior involvement**
     - Proves **informed decision-making**
     
-    **If it's not documented, it didn't happen**
+    **More documentation is generally more defensible**
 
 ---
 
@@ -246,39 +245,66 @@ For resuscitation cases, you may use an **A-E (ABCDE) structure** instead:
 
 !!! example "Good Documentation Example"
     
-    **1400 - Initial Assessment**
+    **1400 - Initial Assessment**  
+    HO Smith - EM
     
-    PC: Chest pain
+    **PC:**  
+    Chest Pain
     
-    HPC: 45M with 2 hour history of central chest pain, crushing in nature, radiating to left arm. Started at rest. Associated with nausea and sweating. No previous cardiac history.
+    **HPC:**
     
-    PMH: Hypertension, T2DM
-    DH: Metformin, Ramipril. NKDA
-    SH: Smoker 20/day, works as builder
+    - 3 hours severe central crushing pain
+    - Has noted some similar but more mild pain on exertion recently
+    - Feels short of breath
+    - No cough
+    - No syncope
+    - No vomit
+    - Mild left arm and jaw radiation, nil right arm radiation
+    - Had aspirin and GTN with paramedics
+    - Brought to ED subsequently
+    - Pain now eased but still present at 2/10
     
-    O/E: Looks unwell, sweaty
-    Obs: HR 92, BP 145/85, Sats 96% RA, RR 18, Temp 36.8
-    CVS: HS I+II+0, no murmurs
-    Chest: Clear
+    **PMH:**
     
-    Impression: ? Acute coronary syndrome
+    - HTN
+    - T2DM
     
-    Plan: ECG (shows inferior STEMI), aspirin 300mg given, clopidogrel 300mg given, GTN spray, morphine 5mg IV, discussed with cardiology for primary PCI
+    **O/E:**
+    
+    - Alert, Oriented
+    - Looks uncomfortable but well
+    - Obs noted - nil concerning at present
+    - Chest clear
+    - HS 1+2+0
+    - Mild bibasal crackles
+    - Minimal peripheral oedema to ankles
+    
+    **ECG:** New T-wave inversion noted in chest leads, Nil evidence Occlusive MI
+    
+    **Initial trop:** 240
+    
+    **Imp:**  
+    NSTEMI
+    
+    **Plan:**
+    
+    1. Cardiac monitor
+    2. GTN PRN
+    3. Continue Aspirin
+    4. LMWH, Clopidogrel
+    5. Repeat trop 1700
+    6. Serial ECGs
+    7. Admit cardiology
     
     ---
     
-    **1415 - Senior Discussion**
+    **1415 - Discussed with EM Cons Smith**
     
-    Discussed with Dr Brown (ED Consultant). Agrees STEMI. Cardiology contacted (Dr White), patient accepted for immediate cath lab. Pre-PCI bloods sent.
-    
-    ---
-    
-    **1430 - Update**
-    
-    Bloods back: Troponin 2400, otherwise unremarkable. Patient stable, pain improved with GTN. Cath lab ready, porter called.
+    ECG reviewed
+    Plan discussed and agreed
+    Suggests CXR also - requested
     
     ---
     
-    **1445 - Handover**
-    
-    Patient transferred to cath lab with RN Green. Verbal handover given to cardiology team.
+    **1430 - Referred to cardiology, will kindly review**
+

@@ -49,6 +49,17 @@ Our Emergency Department is divided into several clinical zones:
     - Treatment completion
     - Awaiting investigations or specialist review
 
+-   :material-baby-face:{ .lg .middle } __Paediatric Zone__
+
+    ---
+
+    Dedicated paediatric-friendly environment for children.
+
+    - Monitored bays and cubicles
+    - Procedure room
+    - Own nursing station
+    - Child-friendly environment and equipment
+
 </div>
 
 ---
@@ -82,12 +93,18 @@ Our Emergency Department is divided into several clinical zones:
 !!! example "Typical Patient Journey"
     
     1. **Arrival** - Ambulance or walk-in
-    2. **Triage** - Initial assessment and priority allocation
-    3. **Registration** - Administrative details
+    2. **Registration** - Administrative details
+    3. **Triage** - Initial assessment and priority allocation
     4. **Clinical area** - Allocated based on acuity
     5. **Assessment** - Medical review and investigations
     6. **Treatment** - Interventions and management
     7. **Disposition** - Discharge, admission, or transfer
+
+!!! info "Primary Care Diversion Options"
+    Some patients may be more appropriately managed in primary care:
+    
+    - **POAC** (Primary Options for Acute Care) - Diversion to primary care for suitable presentations
+    - **Practice Plus** - Online GP service with free vouchers provided by ED for simple presentations
 
 ---
 
@@ -110,7 +127,7 @@ For internal extensions and emergency contacts, see the [Phone Numbers](phone-nu
 
 ## :material-file-pdf-box: Additional Resources
 
-!!! note "Detailed Floor Plan"
-    For a detailed visual layout of the department including specific room numbers and equipment locations, download the comprehensive floor plan presentation.
+!!! note "Department Presentation"
+    Detailed information about the department structure, processes, and services.
 
-[:octicons-download-24: Download Detailed Floor Plan Presentation](/assets/Palmerston_North_Hospital_Emergency_Department_2%5B1%5D.pdf){:target="_blank" .md-button}
+[:octicons-download-24: Download Department Overview Presentation](/assets/Palmerston_North_Hospital_Emergency_Department_2%5B1%5D.pdf){:target="_blank" .md-button}
