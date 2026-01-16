@@ -18,6 +18,8 @@
 !!! warning "Limited Hours"
     - **Available**: 0800-1700, Monday-Friday only
     - **After hours**: Contact Wellington for dental emergencies
+    
+    [More detailed dental information :octicons-arrow-right-16:](guidelines/dental.md)
 
 ### :material-human-male-board: **Spine Services**
 !!! info "Christchurch-Based"
@@ -30,6 +32,8 @@
     - Available locally but service is very stretched
     - **Try to limit out-of-hours referrals**
     - See referral guidelines for when to refer after hours *(document pending)*
+    
+    [ENT clinical information :octicons-arrow-right-16:](guidelines/ent.md)
 
 ### :material-stomach: **Gastroenterology**
 !!! warning "Service Stretched"
@@ -58,6 +62,8 @@
     
     !!! note "PCI Centre"
         Local PCI centre is in Wellington - discuss with local cardiologist first
+    
+    [Cardiology clinical guidelines :octicons-arrow-right-16:](guidelines/chest-pain.md)
 
 ### :material-heart-pulse: **Cardiothoracics**
 !!! warning "Tertiary Service"

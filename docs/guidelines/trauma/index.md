@@ -1,10 +1,5 @@
 # :material-ambulance: Major Trauma
 
-!!! info "Major Trauma Resources"
-    This page collates key guidelines and resources for major trauma management. For minor traumatic injuries (fractures, sprains, etc.), see [Minor Traumatic Injuries](../trauma-minor.md).
-
----
-
 ## :material-file-document: Core Guidelines
 
 ### Trauma Team Activation & Roles

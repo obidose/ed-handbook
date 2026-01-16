@@ -1,7 +1,37 @@
-# :material-file-document-multiple: Local Guidelines
+# :material-file-document-multiple: Clinical Resources
 
 !!! info "Quick Reference"
-    These are the most commonly used **local ED guidelines** from our SharePoint. Additional condition-specific resources and pathways are available in the Clinical Resources menu above.
+    **Clinical resources for ED practice** including local guidelines, specialty information, and emergency protocols. **Use the navigation sections below** to find specialty-specific resources and trauma protocols.
+
+## :material-navigation: Find What You Need
+
+!!! tip "Popular Sections"
+    === ":material-car-emergency: Trauma & Injuries"
+        **Major Trauma** → [Overview](trauma/index.md)
+        
+        **Minor Injuries** → [Minor Traumatic Injuries](trauma-minor.md) | [Torus Fractures (FORCE)](force-torus.md)
+        
+        **Head Injury** → [Overview](head-injury.md) | [Adult](head-injury-adult.md) | [Paediatric](head-injury-paeds.md)
+
+    === ":material-heart-pulse: Emergency Conditions"
+        **Systemic** → [Anaphylaxis](anaphylaxis.md) | [Sepsis](sepsis.md)
+        
+        **Cardiology** → [Chest Pain](chest-pain.md) | [STEMI](stemi.md) | [Pulmonary Embolism](pulmonary-embolism.md)
+        
+        **Neurology** → [Headache](headache.md)
+        
+        **Paediatric** → [Fever](paeds-fever.md)
+
+    === ":material-account-group: Specialty Services"
+        **ENT** → [Overview](ent.md)
+        
+        **Dental** → [Overview](dental.md)
+        
+        **Palliative Care** → [Overview](palliative-care.md)
+
+---
+
+## :material-star: Common SharePoint Guidelines
 
 <div class="grid cards" markdown>
 

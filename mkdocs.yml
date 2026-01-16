@@ -42,7 +42,7 @@ theme:
     logo: material/hospital-box
     repo: fontawesome/brands/github
 repo_url: https://github.com/obidose/ed-handbook
-edit_uri: ""
+edit_uri: edit/main/docs/
 nav:
   - Home: index.md
   - Induction:
@@ -63,6 +63,7 @@ nav:
           - National RMO Handbook: rmo-handbook.md
       - Digital Tools:
           - MedChart: medchart.md
+          - WebPAS: webpas.md
       - Common Presentations:
           - Chest Pain: presentations/chest-pain.md
           - Back Pain: presentations/back-pain.md
@@ -101,6 +102,8 @@ nav:
           - Fever: guidelines/paeds-fever.md
       - Palliative Care:
           - Overview: guidelines/palliative-care.md
+      - Dental:
+          - Overview: guidelines/dental.md
   - General:
       - Referrals: referrals.md
       - Teaching: teaching.md
@@ -123,6 +126,11 @@ extra_css:
 plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - git-revision-date-localized:
+      type: datetime
+      timezone: Pacific/Auckland
+      locale: en
+      fallback_to_build_date: true
 markdown_extensions:
   - admonition
   - attr_list
