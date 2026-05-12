@@ -102,23 +102,25 @@
       if (drivers.length !== 1) return clear();
 
       const driver = drivers[0][0];
-      let mmol = null, grams = null, pct = null;
+      let mmol = null, grams = null;
+      let pctOutText = "—";
 
       if (driver === "mmol") {
+        if (in_mmol <= 0) return clear();
         mmol = in_mmol;
         grams = mmol * MW_MGSO4_7H2O / 1000.0;
-        pct = grams;
       }
       else if (driver === "grams") {
+        if (in_grams <= 0) return clear();
         grams = in_grams;
         mmol = grams * 1000.0 / MW_MGSO4_7H2O;
-        pct = grams;
       }
       else if (driver === "pct") {
         if (!in_vol || in_vol <= 0) return clear();
+        if (in_pct <= 0) return clear();
         grams = in_pct * (in_vol / 100.0);
         mmol = grams * 1000.0 / MW_MGSO4_7H2O;
-        pct = in_pct;
+        pctOutText = fmt(in_pct, 2) + "%";
       }
 
       const ml_needed = mmol !== null ? (mmol / VIAL_CONCENTRATION) : null;
@@ -126,7 +128,7 @@
 
       $("#out_mmol", container).textContent = fmt(mmol, 2);
       $("#out_grams", container).textContent = fmt(grams, 2);
-      $("#out_pct", container).textContent = fmt(pct, 2) + (pct !== null ? "%" : "");
+      $("#out_pct", container).textContent = pctOutText;
       $("#out_vials", container).textContent = vials_needed !== null ? vials_needed : "—";
       $("#out_ml", container).textContent = fmt(ml_needed, 1) + (ml_needed !== null ? " mL" : "");
     }
@@ -231,19 +233,23 @@
         background: var(--md-code-bg-color);
       }
     `;
+    if (document.getElementById("ed-handbook-mg-converter-styles")) return;
     const style = document.createElement("style");
+    style.id = "ed-handbook-mg-converter-styles";
     style.textContent = css;
     document.head.appendChild(style);
   }
 
-  function init() {
+  function boot() {
     styles();
     document.querySelectorAll(".mg-converter").forEach(ui);
   }
 
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", init);
+  if (typeof document$ !== "undefined" && document$ && typeof document$.subscribe === "function") {
+    document$.subscribe(boot);
+  } else if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", boot);
   } else {
-    init();
+    boot();
   }
 })();
