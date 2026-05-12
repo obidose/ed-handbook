@@ -21,7 +21,7 @@ Welcome to your **fast, mobile-friendly** reference for induction, key guideline
 
 === "First shift"
 
-    - [:octicons-person-24: New staff induction](induction.md) — orientation, systems, and workflow
+    - [:octicons-person-24: New staff induction](induction/) — orientation, systems, and workflow
     - [:octicons-device-mobile-24: Phone numbers](phone-numbers.md) — who to call when it matters
 
 === "Clinical"
@@ -51,7 +51,7 @@ Welcome to your **fast, mobile-friendly** reference for induction, key guideline
 
     First day? Start here for orientation and setup
     
-    [:octicons-arrow-right-24: Get Started](induction.md){ .md-button .md-button--primary }
+    [:octicons-arrow-right-24: Get Started](induction/){ .md-button .md-button--primary }
 
 -   :material-file-document-multiple:{ .lg .middle } **Clinical Guidelines**
 

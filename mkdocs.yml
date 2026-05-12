@@ -46,7 +46,7 @@ edit_uri: edit/main/docs/
 nav:
   - Home: index.md
   - Induction:
-      - Overview: induction.md
+      - induction/index.md
       - Registrar orientation book: registrar-orientation.md
       - Department Information: department-info.md
       - ED Layout: ed-overview.md

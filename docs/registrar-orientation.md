@@ -11,4 +11,4 @@ This is a **Microsoft Word** document (`.doc`). On phones and some browsers it w
 
 ---
 
-[:octicons-arrow-left-24: Back to induction overview](induction.md){ .md-button }
+[:octicons-arrow-left-24: Back to induction overview](induction/){ .md-button }
