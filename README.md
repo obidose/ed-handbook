@@ -25,8 +25,8 @@ The site is built with MkDocs Material and deployed to GitHub Pages for easy acc
 ## Development
 
 ```bash
-# Install dependencies
-pip install mkdocs-material
+# Install dependencies (includes git-revision-date plugin used in mkdocs.yml)
+pip install -r requirements.txt
 
 # Run locally
 mkdocs serve

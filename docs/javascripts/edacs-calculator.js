@@ -391,19 +391,23 @@
         background: var(--md-code-bg-color);
       }
     `;
+    if (document.getElementById("ed-handbook-edacs-calculator-styles")) return;
     const style = document.createElement("style");
+    style.id = "ed-handbook-edacs-calculator-styles";
     style.textContent = css;
     document.head.appendChild(style);
   }
 
-  function init() {
+  function boot() {
     styles();
     document.querySelectorAll(".edacs-calculator").forEach(ui);
   }
 
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", init);
+  if (typeof document$ !== "undefined" && document$ && typeof document$.subscribe === "function") {
+    document$.subscribe(boot);
+  } else if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", boot);
   } else {
-    init();
+    boot();
   }
 })();
