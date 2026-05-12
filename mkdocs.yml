@@ -13,7 +13,6 @@ theme:
     - navigation.path
     - navigation.top
     - toc.follow
-    - toc.integrate
     - search.suggest
     - search.highlight
     - search.share
