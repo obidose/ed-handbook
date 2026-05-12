@@ -12,6 +12,7 @@ This section is organized to take you through everything you need to know:
 
 Start with the essentials:
 
+- **[Registrar orientation book](registrar-orientation.md)** — downloadable Word orientation booklet for registrars
 - **[Department Information](department-info.md)** - Learn about our team, services, and how the department operates
 - **[ED Layout](ed-overview.md)** - Navigate the physical space and understand the different areas
 

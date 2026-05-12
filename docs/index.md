@@ -1,11 +1,33 @@
+---
+hide:
+  - toc
+  - path
+---
+
+<div class="palmy-hero" markdown>
+
 # :material-hospital-box: ED Clinician Handbook
+
+<p class="palmy-hero__tagline">Palmy in your palm — fast reference for Palmerston North Hospital Emergency Department.</p>
 
 Welcome to your **fast, mobile-friendly** reference for induction, key guidelines, phone numbers, and referrals.
 
 !!! warning "Clinical Judgement"
     **Always use clinical judgement.** Where a document lives on SharePoint, the link will take you to the internal version (you'll need to sign in if offsite).
 
+</div>
+
 ## Quick Access
+
+=== "First shift"
+
+    - [:octicons-person-24: New staff induction](induction.md) — orientation, systems, and workflow
+    - [:octicons-device-mobile-24: Phone numbers](phone-numbers.md) — who to call when it matters
+
+=== "Clinical"
+
+    - [:octicons-book-24: Guidelines overview](guidelines/index.md) — sepsis, chest pain, head injury, and more
+    - [:octicons-link-24: Quick links](quick-links.md) — MedChart, WebPAS, and common portals
 
 <div class="grid cards" markdown>
 
@@ -52,5 +74,4 @@ Welcome to your **fast, mobile-friendly** reference for induction, key guideline
 ## :material-phone-settings: Emergency Contacts
 
 --8<-- "snippets/emergency-contacts.md"
-
 
