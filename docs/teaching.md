@@ -16,7 +16,7 @@
     - **Trainees**: Attend for full morning
     - **Other RMOs**: First 2 hours, then return to floor
     
-    [:octicons-arrow-right-24: View Timetable](https://midcentraldhb.sharepoint.com/:x:/t/AESS-Consultants-EDInitiative/EUyIocGVCTdHmP44PAlJke4BJ7a3J8VcTncV0EhgU5skvQ?web=1){:target="_blank" .md-button .md-button--primary }
+    [:octicons-arrow-right-24: View Timetable](https://midcentraldhb.sharepoint.com/:x:/r/teams/RMOEmergency/_layouts/15/Doc.aspx?sourcedoc=%7B4EEFCA95-7174-421C-82AF-6A8081541F2C%7D&file=ACEM%20Teaching%20Roster%202026.2.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1){:target="_blank" .md-button .md-button--primary }
 
 -   :material-medical-bag:{ .lg .middle } **Radiology Meeting**
 
