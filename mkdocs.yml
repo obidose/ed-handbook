@@ -82,7 +82,7 @@ nav:
           - Sepsis: presentations/sepsis.md
   - Clinical Resources:
       - Local Guidelines:
-          - Overview: guidelines/index.md
+          - guidelines/index.md
       - Systemic:
           - guidelines/systemic/index.md
           - Anaphylaxis: guidelines/anaphylaxis.md
@@ -96,24 +96,24 @@ nav:
           - guidelines/neurology/index.md
           - Headache: guidelines/headache.md
       - ENT:
-          - Overview: guidelines/ent.md
+          - guidelines/ent/index.md
       - Major Trauma:
-          - Overview: guidelines/trauma/index.md
+          - guidelines/trauma/index.md
       - Minor Injuries:
           - guidelines/minor-injuries/index.md
           - Minor Traumatic Injuries: guidelines/trauma-minor.md
           - Torus Fractures (FORCE): guidelines/force-torus.md
       - Head Injury:
-          - Overview: guidelines/head-injury.md
+          - guidelines/head-injury/index.md
           - Adult: guidelines/head-injury-adult.md
           - Paediatric: guidelines/head-injury-paeds.md
       - Paediatric:
           - guidelines/paediatric/index.md
           - Fever: guidelines/paeds-fever.md
       - Palliative Care:
-          - Overview: guidelines/palliative-care.md
+          - guidelines/palliative-care/index.md
       - Dental:
-          - Overview: guidelines/dental.md
+          - guidelines/dental/index.md
   - General:
       - Referrals: referrals.md
       - Teaching: teaching.md

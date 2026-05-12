@@ -11,7 +11,7 @@
         
         **Minor Injuries** → [Minor Traumatic Injuries](trauma-minor.md) | [Torus Fractures (FORCE)](force-torus.md)
         
-        **Head Injury** → [Overview](head-injury.md) | [Adult](head-injury-adult.md) | [Paediatric](head-injury-paeds.md)
+        **Head Injury** → [Overview](head-injury/) | [Adult](head-injury-adult.md) | [Paediatric](head-injury-paeds.md)
 
     === ":material-heart-pulse: Emergency Conditions"
         **Systemic** → [Anaphylaxis](anaphylaxis.md) | [Sepsis](sepsis.md)
@@ -23,11 +23,11 @@
         **Paediatric** → [Fever](paeds-fever.md)
 
     === ":material-account-group: Specialty Services"
-        **ENT** → [Overview](ent.md)
+        **ENT** → [Overview](ent/)
         
-        **Dental** → [Overview](dental.md)
+        **Dental** → [Overview](dental/)
         
-        **Palliative Care** → [Overview](palliative-care.md)
+        **Palliative Care** → [Overview](palliative-care/)
 
 ---
 

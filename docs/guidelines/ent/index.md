@@ -25,5 +25,5 @@ This traffic light system provides a structured approach to common ENT presentat
 
 For ENT referrals and advice, see:
 
-- [Referrals page](../referrals.md)
-- [Phone Numbers](../phone-numbers.md)
+- [Referrals page](../../referrals.md)
+- [Phone Numbers](../../phone-numbers.md)

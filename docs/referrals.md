@@ -19,7 +19,7 @@
     - **Available**: 0800-1700, Monday-Friday only
     - **After hours**: Contact Wellington for dental emergencies
     
-    [More detailed dental information :octicons-arrow-right-16:](guidelines/dental.md)
+    [More detailed dental information :octicons-arrow-right-16:](guidelines/dental/)
 
 ### :material-human-male-board: **Spine Services**
 !!! info "Christchurch-Based"
@@ -33,7 +33,7 @@
     - **Try to limit out-of-hours referrals**
     - See referral guidelines for when to refer after hours *(document pending)*
     
-    [ENT clinical information :octicons-arrow-right-16:](guidelines/ent.md)
+    [ENT clinical information :octicons-arrow-right-16:](guidelines/ent/)
 
 ### :material-stomach: **Gastroenterology**
 !!! warning "Service Stretched"
