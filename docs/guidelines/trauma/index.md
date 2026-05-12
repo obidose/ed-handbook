@@ -7,7 +7,7 @@
 !!! note "Internal Guideline"
     **Overall Major Trauma, Trauma Call Criteria, Roles and Responsibilities**
     
-    [Access Internal Guideline](https://www.tewhatuora.govt.nz/assets/For-health-professionals/Hospital-and-specialist-services/National-burn-service/escharotomy-guidelines.pdf){ .md-button target="_blank"}
+    [Access Internal Guideline](https://midcentraldhb.sharepoint.com/:w:/r/sites/ControlledDocuments/_layouts/15/Doc.aspx?sourcedoc=%7B5B36B8C6-6FF9-4402-9D80-3CA25D6AAEDC%7D&file=Trauma%20Call%20Criteria%20with%20Code%20Crimson%20-Procedure-.docx&action=default&mobileredirect=true&DefaultItemOpen=1){ .md-button target="_blank"}
 
 ### Tertiary Referral Pathway
 

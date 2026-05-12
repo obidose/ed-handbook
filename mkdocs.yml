@@ -10,6 +10,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
+    - navigation.indexes
     - navigation.path
     - navigation.top
     - toc.follow
@@ -50,6 +51,7 @@ nav:
       - Department Information: department-info.md
       - ED Layout: ed-overview.md
       - Case Workflow:
+          - case-workflow/index.md
           - Picking Up Patients: picking-up-patients.md
           - Initial Patient Review: initial-review.md
           - Presenting Patients: presenting-patients.md
@@ -57,14 +59,17 @@ nav:
           - Referring Patients: referring-patients.md
           - Discharging Patients: discharging-patients.md
       - Other:
+          - induction/other/index.md
           - Documentation: documentation.md
           - Shift Handover: handover.md
           - Top Ten Tips: top-ten-tips.md
           - National RMO Handbook: rmo-handbook.md
       - Digital Tools:
+          - induction/digital-tools/index.md
           - MedChart: medchart.md
           - WebPAS: webpas.md
       - Common Presentations:
+          - induction/common-presentations/index.md
           - Chest Pain: presentations/chest-pain.md
           - Back Pain: presentations/back-pain.md
           - Headache: presentations/headache.md
@@ -79,19 +84,23 @@ nav:
       - Local Guidelines:
           - Overview: guidelines/index.md
       - Systemic:
+          - guidelines/systemic/index.md
           - Anaphylaxis: guidelines/anaphylaxis.md
           - Sepsis: guidelines/sepsis.md
       - Cardiology:
+          - guidelines/cardiology/index.md
           - Chest Pain: guidelines/chest-pain.md
           - STEMI: guidelines/stemi.md
           - Pulmonary Embolism: guidelines/pulmonary-embolism.md
       - Neurology:
+          - guidelines/neurology/index.md
           - Headache: guidelines/headache.md
       - ENT:
           - Overview: guidelines/ent.md
       - Major Trauma:
           - Overview: guidelines/trauma/index.md
       - Minor Injuries:
+          - guidelines/minor-injuries/index.md
           - Minor Traumatic Injuries: guidelines/trauma-minor.md
           - Torus Fractures (FORCE): guidelines/force-torus.md
       - Head Injury:
@@ -99,6 +108,7 @@ nav:
           - Adult: guidelines/head-injury-adult.md
           - Paediatric: guidelines/head-injury-paeds.md
       - Paediatric:
+          - guidelines/paediatric/index.md
           - Fever: guidelines/paeds-fever.md
       - Palliative Care:
           - Overview: guidelines/palliative-care.md
