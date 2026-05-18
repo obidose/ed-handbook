@@ -18,6 +18,10 @@ Comprehensive traumatic brain injury assessment and management toolkit from ACC 
 
 ---
 
+[Sinus precautions handout](/assets/Sinus-precautions-handout-Apr2026.pdf){:target="_blank"}
+
+---
+
 ### Additional Resources
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 1.5rem 0;">

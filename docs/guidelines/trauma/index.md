@@ -42,6 +42,8 @@
 <hr style="margin: 1rem 0; opacity: 0.3;">
 <p><strong>Brain Injury Screening Tool (BIST)</strong></p>
 <a href="https://www.aut.ac.nz/tbi_network/support-and-resources/brain-injury-screening-tool-bist" target="_blank" class="md-button">Access BIST Tool</a>
+<hr style="margin: 1rem 0; opacity: 0.3;">
+<a href="../../assets/Sinus-precautions-handout-Apr2026.pdf" target="_blank" class="md-button">Sinus precautions handout</a>
 </div>
 
 <!-- Spinal Injuries -->
