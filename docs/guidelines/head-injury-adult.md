@@ -18,10 +18,6 @@ Comprehensive traumatic brain injury assessment and management toolkit from ACC 
 
 ---
 
-[Sinus precautions handout](/assets/Sinus-precautions-handout-Apr2026.pdf){:target="_blank"}
-
----
-
 ### Additional Resources
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 1.5rem 0;">
@@ -42,6 +38,11 @@ Comprehensive traumatic brain injury assessment and management toolkit from ACC 
 <h4 style="margin-top: 0;">📄 Concussion Education Sheet</h4>
 <p>Patient information sheet for discharge - symptoms, management, and when to return.</p>
 <a href="https://www.acc.co.nz/assets/im-injured/acc8319-concussion-education-sheet.pdf" target="_blank" class="md-button">Download Patient Info</a>
+</div>
+
+<div style="border: 2px solid var(--md-accent-fg-color); border-radius: 8px; padding: 1.5rem; background: var(--md-code-bg-color);">
+<h4 style="margin-top: 0;">📄 Sinus precautions handout</h4>
+<a href="/assets/Sinus-precautions-handout-Apr2026.pdf" target="_blank" class="md-button">Download handout</a>
 </div>
 
 </div>
