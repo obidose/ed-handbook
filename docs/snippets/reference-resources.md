@@ -22,8 +22,8 @@
 
     Toxicology database and poisoning information
     
-    **Login:** Username: `emergdept` | Password: `APPLE`
+    **Login:** Username: `emergdept` | Password: `apple`
     
-    [:octicons-arrow-right-24: Access Toxinz](#){ .md-button .md-button--primary }
+    [:octicons-arrow-right-24: Access Toxinz](https://www.toxinz.com/){:target="_blank" .md-button .md-button--primary }
 
 </div>

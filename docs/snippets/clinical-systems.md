@@ -6,7 +6,7 @@
 
     WebPAS patient administration system
     
-    [:octicons-arrow-right-24: Access WebPAS](#){ .md-button .md-button--primary }
+    [:octicons-arrow-right-24: Access WebPAS](https://wpprod.central.health.nz/pas/login/login.html){:target="_blank" .md-button .md-button--primary }
 
 -   :material-clipboard-list:{ .lg .middle } **Clinical Portal**
 
@@ -14,7 +14,7 @@
 
     Central clinical information system
     
-    [:octicons-arrow-right-24: Open Clinical Portal](https://cp.central.health.nz/concerto/Login.htm?org=MDHB){ .md-button .md-button--primary }
+    [:octicons-arrow-right-24: Open Clinical Portal](https://cp.central.health.nz/concerto/Login.htm?org=MDHB){:target="_blank" .md-button .md-button--primary }
 
 -   :material-calendar:{ .lg .middle } **Roster System**
 

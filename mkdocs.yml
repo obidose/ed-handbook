@@ -3,6 +3,7 @@ site_description: Palmy in your palm
 site_url: https://palmyed.com
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.tracking
@@ -125,6 +126,8 @@ nav:
       - Calcium: Meds/calcium.md
 extra:
   generator: false
+  feedback:
+    endpoint: https://formspree.io/f/xgoqezaw
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/obidose/ed-handbook
@@ -174,6 +177,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 extra_javascript:
+  - javascripts/feedback.js
   - javascripts/mg-converter.js
   - javascripts/ca-converter.js
   - javascripts/edacs-calculator.js
